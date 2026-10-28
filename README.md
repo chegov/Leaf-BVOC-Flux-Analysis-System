@@ -4,7 +4,8 @@ Python 命令行和本地网页。以 `Original Data/1015_xiangzhang_0.5/` 中�
 
 ## 安装与运行
 
-需要 Python 3.10+。在此目录打开终端：
+需要 Python 3.10+
+Original Data 与程序文件夹 voc_analysis 应放在同一个上级目录中，两者并列, 在此目录打开终端：
 
 ```powershell
 python -m venv .venv
