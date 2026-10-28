@@ -1,0 +1,27 @@
+{
+  "voc_sheet": 0,
+  "env_sheet": "数据",
+  "date_column": "日期",
+  "time_column": "时间",
+  "env_time_column": "日期-时间 (China Standard Time)",
+  "environment_columns": {
+    "temperature": "温度   (°C)",
+    "humidity": "相对湿度   (%)",
+    "PAR": "光合作用有效辐射   (μmol/m²/s)"
+  },
+  "window_mode": "five_minute_bins",
+  "window_minutes": 5,
+  "concentration_unit": "ppb",
+  "flux": {
+    "chamber_volume_l": 10.0,
+    "flow_l_min": 5.0,
+    "leaf_area_m2": null,
+    "flow_is_chamber_total": true,
+    "steady_state_confirmed": true,
+    "background_mode": "already_corrected",
+    "flow_basis": "standard",
+    "reference_temperature_c": 25.0,
+    "reference_pressure_pa": 101325.0,
+    "chamber_pressure_pa": null
+  }
+}

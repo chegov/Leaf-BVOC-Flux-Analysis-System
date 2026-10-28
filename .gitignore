@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+outputs/
+results/
+*.xlsx
+*.zip
+~$*
